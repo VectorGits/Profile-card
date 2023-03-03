@@ -110,15 +110,6 @@ body {
 } */
 
 
-
-
-
-
-
-
-
-
-
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -126,5 +117,5 @@ body {
     color: rgba(209, 255, 244, 0.822);
 }
 .attribution a {
-    color: hsl(225, 5%, 71%);
+    color: hsl(130, 100%, 79%);
 }
